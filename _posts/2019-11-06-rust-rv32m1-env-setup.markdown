@@ -9,3 +9,5 @@ date:   2019-11-06 13:53:00 +0800
 ![vega-lite-rv-jtag-board-1]({{ site.baseurl }}/assets/vega-lite-rv-jtag-board-1-768x600.jpg)
 
 ![vega-lite-rv-jtag-board-2]({{ site.baseurl }}/assets/vega-lite-rv-jtag-board-2-768x711.jpg)
+
+![vega-lite_riscv_jtag_conn_board-rendered-1]({{ site.baseurl }}/assets/vega-lite_riscv_jtag_conn_board-rendered-1.jpg)
